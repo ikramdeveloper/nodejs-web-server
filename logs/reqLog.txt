@@ -1,0 +1,4 @@
+20220316	21:28:56	 69a9ddda-e4ec-4df7-bac8-3b35d49276b6	 /new-page.html	GET
+20220316	21:28:57	 0c77af18-00bc-42ab-8528-02f28cd5bc6e	 /css/style.css	GET
+20220316	21:28:57	 b3f9dfb8-278d-4367-930b-e612af7e1564	 /img/img1.jpg	GET
+20220316	21:28:57	 a8149f53-a72c-4479-b747-6c88877ee9b5	 /favicon.ico	GET
